@@ -1,0 +1,128 @@
+body {
+    font-family: Montserrat, sans-serif;
+    background-color:#5f5e5e;
+}
+
+header {
+    background-color: #383838;
+    padding: 20px 0;
+
+}
+
+main {
+
+    text-align: center;
+}
+
+.caixa {
+    position:relative;
+    width:940px;
+    margin: 0 auto;
+
+}
+
+.picture {
+    position:relative;
+    top: 10px;
+    left: 5px;
+    width: 200px;
+    border-radius:10%
+
+}
+
+nav {
+
+    position:absolute;
+    top: 120px;
+    right: 0;
+
+}
+
+nav li {
+    display:inline;
+    color:rgb(188, 216, 241);
+    margin: 0 0 0 15px;
+
+}
+
+nav a {
+
+    text-transform: uppercase;
+    color: rgb(188, 216, 241);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 20px;
+    font-weight: 700px;
+}
+
+.apresentacao {
+
+    font-size: 50px;
+    color: rgb(188, 216, 241);
+    text-align: left;
+    font-weight: bold;
+    padding:20px;
+
+}
+
+.conteudo a {
+
+    text-transform: uppercase;
+    color: rgb(188, 216, 241);
+    text-decoration: none;
+    font-size:16px;
+    line-height:20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
+h2 {
+    font-weight:bold;
+    font-size: 30px;
+    color:rgb(188, 216, 241);
+
+}
+
+
+
+.sobremimp {
+
+    display: inline;
+    font-weight: bolder;
+    line-height: 22px;
+    font-weight: 300px;
+    margin: 15px 0 0 15px;
+    color:rgb(188, 216, 241);
+
+
+    
+}
+
+.sobremim {
+
+    color:rgb(188, 216, 241);
+    
+}
+
+.canal_preferido {
+
+    color:rgb(188, 216, 241);
+    font-weight: bolder;
+
+}
+
+.listas {
+
+    color:rgb(188, 216, 241);
+    font-weight: bolder;
+}
+
+.button {
+
+    background-color: #383838 ;
+    border-radius: 4px;
+    padding: 15px 30px;
+}
