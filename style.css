@@ -97,7 +97,7 @@ nav a:hover {
 .linkssociais li {
 
     display:inline-block;
-    margin-left: 15px;
+    margin-left: 20px;
 
 
 }
@@ -115,6 +115,35 @@ nav a:hover {
 
     width: 100%;
 
+}
+
+.instagram:hover {
+
+    width: 62px;
+    font-size: 15px;
+    text-decoration: underline;
+
+}
+
+.linkedin:hover {
+
+    width: 62px;
+    font-size: 15px;
+    text-decoration: underline; 
+}
+
+.github:hover {
+
+    width: 62px;
+    font-size: 15px;
+    text-decoration: underline; 
+}
+
+.gmail:hover {
+
+    width: 62px;
+    font-size: 15px;
+    text-decoration: underline; 
 }
 
 .apresentacao {
