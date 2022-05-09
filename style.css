@@ -199,9 +199,11 @@ h3 {
     line-height: 22px;
     margin: 15px 0 0 15px;
     color:rgb(188, 216, 241);
+}
 
+#destaque {
 
-    
+    font-weight: bold;
 }
 
 .sobremim {
